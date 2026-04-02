@@ -1,12 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ■■■■■■ ■■■■■■■
-=======================================================================================================================================
-<img src="xlogo.png" width="300">
 lazy dev
 --------
 
 I'm just a CRAZY creative programmer
 
-* 🌍  I'm based in Little Saint James
+* 🌍  I'm based in ....
 * ✉️  You can contact me at [xalkejd@gmail.com](mailto:xalkejd@gmail.com)
 
 <p align="left">
